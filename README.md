@@ -1,3 +1,9 @@
+* https://github.com/ull-mfp-aet-2324-alu0100774252
+* https://classroom.github.com/classrooms/149101820-ull-mfp-aet-2324-alu0100774252
+* https://classroom.github.com/classrooms/149101820-ull-mfp-aet-2324-alu0100774252/assignments/microbit-alejandro
+
+
+
 
 > Open this page at <https://ull-mfp-aet.github.io/microbit-template/>
 
